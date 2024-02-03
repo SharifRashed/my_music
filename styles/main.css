@@ -1,0 +1,11 @@
+.mainHeader{
+   text-align: center;
+}
+.songs{
+    margin: auto;
+    padding: 20px
+};
+.aside{
+    text-align: right;
+    background-color: bisque;
+}
